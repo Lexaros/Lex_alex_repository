@@ -1,5 +1,1 @@
-<?php
-    $hello="Hello";
-    $world="world";
-    $greating=$hello." ".$world;
-    echo $greating;
+ <h1>Hello my master</h1>;

@@ -1,3 +1,3 @@
 <?php
-    print_r($_GET);
-    echo $_GET;
+    header ("Content-Type: texp/plain");
+    echo "Query string= '" . $_SERVER["QUERY_STRING"] . "'";
