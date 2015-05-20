@@ -1,0 +1,22 @@
+#subHeaderblue
+{
+    border-bottom: 2px solid blue;
+}
+
+#subHeaderred
+{
+    border-bottom: 2px solid red ;
+}
+
+table
+{
+    cellspacing: 1px;
+    color: black;
+    border-collapse: collaps;
+}
+
+
+{
+    padding: 3 px;
+    border: 1px solid black;
+}
