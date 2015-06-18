@@ -1,10 +1,14 @@
 <?php
-    function GetParamFromGet($paramName, $defaultValue'')
+    function GetParamFromGet($paramName)
     {
-        $result= $defaultValue;
-        if (insert($_GET[$paramName]))
+        if (isset ($_GET[$paramName]))
         {
-            #result= $_GET[$paramName];
+            $result = $_GET[$paramName];
+        }
+        else 
+        {
+            $result = '';
+            echo "<br> !ERROR! $paramName is not set";
         }
         return $result;
     }

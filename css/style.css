@@ -1,22 +1,27 @@
-#subHeaderblue
+.sub_header
 {
     border-bottom: 2px solid blue;
 }
 
-#subHeaderred
+.red
 {
-    border-bottom: 2px solid red ;
+    border-color: red;
 }
 
 table
 {
-    cellspacing: 1px;
-    color: black;
-    border-collapse: collaps;
+    
+    border-collapse: collapse;
 }
 
-
+th, td
 {
-    padding: 3 px;
+    border-collapse: collapse;
+    padding: 5px;
     border: 1px solid black;
+}
+
+.grey
+{
+    background: #F5F5F5;
 }
