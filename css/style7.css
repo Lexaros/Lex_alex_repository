@@ -7,8 +7,8 @@
 body
 {
     margin:15px;
-    width: 282px;
-    height:10px;
+    width: 283px;
+    height:29px;
 }
 
 .sub_header_arrow
@@ -16,6 +16,7 @@ body
     border-bottom: 6px solid black;
     background: url(../images/arrow.png) no-repeat scroll 0px 4px;
     padding-left: 30px;
+    padding-right: 3px;
     padding-bottom: 8px;
 }
 
@@ -35,7 +36,7 @@ h1
 {
     margin-top: 16px;
     background: url(../images/checkbox.png) no-repeat scroll 0px 0px;
-    padding-left: 30px;
+    padding-left: 29px;
     padding-top: 0px;
 }
 
@@ -49,7 +50,7 @@ h1
 .indent_2
 {
     padding-left: 0px;
-    padding-top: 2px
+    padding-top: 3px
     
 }
 

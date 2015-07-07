@@ -1,0 +1,41 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.main
+{
+    font: 18px Arial;
+}
+
+.main
+{
+    margin: 0;
+    padding: 0;
+    color: #6B6B6B;
+    width: 859px;
+    border-top: 1px solid #ABABAB;
+    border-bottom: 1px solid #ABABAB;
+    margin: 18px 0 0 13px;
+    padding-left: 69px;
+    padding-top: 11px;
+    padding-bottom: 10px;
+}
+
+.main li
+{
+    display: inline;
+    padding-right: 75px;
+}
+
+.main .news
+{
+    padding-right: 80px;
+}
+
+.main li a
+{
+    color: #6B6B6B;
+    text-decoration: none;
+}

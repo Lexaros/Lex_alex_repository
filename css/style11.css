@@ -1,0 +1,119 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.center
+{
+    margin: 0 auto;
+}
+
+.main
+{
+    font: bold 14px/17px Tahoma;
+    width: 800px;
+}
+
+.title_blue
+{
+    margin: 14px 0 0 0;
+    border-bottom: 2px solid blue;
+    padding-left: 347px;
+    font: 34px Arial;
+    width: 453px;
+}
+
+.cat_hub
+{
+    padding: 35px 0 0 35px;
+}
+
+.clear
+{
+    clear: both;
+}
+
+.container_cat
+{
+    width: 220px;
+    height: 203px; 
+    border: 1px solid black; 
+    margin: 0 35px 0 0;
+    padding-top: 20px;
+    text-align: center;
+    float: left;
+    border-radius: 8px;
+}
+
+.cat1
+{
+    background: url("../images/texture1.jpg");
+}
+
+.cat2
+{
+    background: url("../images/texture3.jpg");
+}
+
+.cat3
+{
+    background: url("../images/texture2.jpg");
+    margin-right: 0;
+}
+
+.cat_year_hub
+{
+    position: relative;
+    left: 100%;
+    color: #FFFFFF;
+}
+
+.cat_year
+{
+    height: 44px;
+    width: 50px;
+    background-color: #BC8F8F;
+    border: 1px solid #FFD700;
+    position: absolute;
+    left: -27px;
+    top: -45px;
+    border-radius: 15px;
+    padding: 6px 0 0 0;
+}
+
+.container_cat p
+{
+	text-align: left;
+    margin: 3px 0 0 39px;
+}
+
+.cat2 p
+{
+    margin-left: 31px;
+}
+
+.cat3 p
+{
+    margin-left: 41px;
+}
+
+.button_cat
+{ 
+    height: 44px;
+    width: 298px;
+    background: url("../images/button.png") no-repeat;
+    padding-top: 15px;
+    text-align: center;
+    margin: 20px auto 0;
+}
+
+.button_cat:hover
+{ 
+    background: url("../images/button-over.png") no-repeat;
+}
+
+.button_cat span
+{
+    font: bold 16px/19px Tahoma
+}

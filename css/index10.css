@@ -1,0 +1,53 @@
+/* Here custom styles begin */
+.main
+{
+    height: 500px;
+    width: 500px;
+    background-color: #0099CC;
+    position: relative;
+    margin: 40px auto;
+}
+
+.red
+{
+    height: 70px;
+    width: 70px;
+    background-color: #FF0000;
+    position: absolute;
+}
+
+.green
+{
+    height: 100px;
+    width: 100px;
+    background: #00cc00;
+    position: absolute;
+}
+
+.left
+{
+    left: 0;
+}
+
+.right
+{
+    right: 0;
+}
+
+.top
+{
+    top: 0;
+}
+
+.bottom
+{
+    bottom: 0;
+}
+
+.center
+{
+    top: 50%;
+    left: 50%;
+    margin: -50px 0 0 -50px;
+}
+/* Here custom styles end */

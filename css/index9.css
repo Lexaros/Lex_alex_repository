@@ -1,0 +1,114 @@
+.main
+{
+    width: 1000px;
+    min-height: 100%;
+    margin: 0 auto;
+    border: 1px solid;
+    border-top: none;
+    border-bottom: none;
+}
+
+/* Here custom styles begin */
+
+.layer1
+{
+    width: 700px;
+    height: 50px;
+    background-color: #00FFFF;
+}
+
+.layer2
+{
+    width: 900px;
+    height: 30px;
+    background-color: #33CCFF;
+    margin-top: 10px;
+}
+
+.layer3
+{
+    width: 540px;
+    height: 340px;
+    background-color: #3399FF;
+    margin-top: 10px;
+	padding: 20px;
+}
+
+.layer4
+{
+    width: 200px;
+    height: 40px;
+    background-color: #9999FF;
+}
+
+.layer5
+{
+    width: 250px;
+    height: 70px;
+    background-color: #CC66FF;
+}
+
+.layer6
+{
+    height: 50px;
+    background-color: #FF6666;
+	margin: 15px 0 20px 0;
+}
+
+.layer7
+{
+    width: 100px;
+    height: 70px;
+    background-color: #660033;
+}
+
+.layer8
+{
+    width: 80px;
+    height: 70px;
+    background-color: #000066;
+	margin-left: 15px;
+}
+
+.layer9
+{
+    width: 90px;
+    height: 70px;
+    background-color: #999966;
+}
+
+.layer10
+{
+    width: 400px;
+    height: 300px;
+    background-color: #6699FF;
+    margin-top: 10px;
+}
+
+.layer11
+{
+    width: 70px;
+    height: 60px;
+    background-color: #0033CC;
+}
+
+.layer12
+{
+    width: 80px;
+    height: 60px;
+    background-color: #FF00FF;
+    margin-left: 10px;
+}
+
+.layer13
+{
+    height: 50px;
+    background-color: #6600CC;
+    margin-top: 15px;
+}
+
+.indent
+{
+    padding-top: 15px;
+}
+/* Here custom styles end */
